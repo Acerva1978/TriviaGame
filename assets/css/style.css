@@ -1,0 +1,11 @@
+.display {
+    font-family: monospace;
+    font-size: 150px;
+    color: black;
+}
+
+.trivia {
+    font-family: Impact, fantasy;
+    font-size: 100px;
+    text-shadow: 4px 4px grey;
+}
